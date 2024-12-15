@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    background: linear-gradient(225deg, #A54343 0%, #E73535 100%);
+    width: 1440px;
+    height: 1024px;
+    gap: 0px;
+    opacity: 0px;
+}
+.content{
+    background-image: url('/assets/img/Image.png');
+    background-repeat: no-repeat;
+    width: 900px;
+    height: 891px;
+    padding-top: 150px;
+    margin-left: 540px;
+    gap: 0px;
+    opacity: 0px;
+}
+.content h1{
+    color: #fff;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 140px;
+    font-weight: 700;
+    line-height: 127px;
+    letter-spacing: -1.5750000476837158px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    margin-left: -350px;
+    width: 517px;
+    height: 254px;
+    gap: 0px;
+    opacity: 0px;
+}
+.content h5{
+    color: #fff;
+    width: 517px;
+    height: 101px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: -350px;
+    margin-top: 50px;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 34px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+.content p{
+    background-image: url('/assets/img/truck-icon\ 1.png');
+    background-repeat: no-repeat;
+    padding-left: 70px;
+    color: #fff;
+    width: 200px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Open Sans;
+    margin-left: -350px;
+    margin-top: 200px;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+.content h6{
+    color: #fff;
+    width: 49px;
+    height: 24px;
+    margin-left: -280px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Open Sans;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    }
+.button{
+    margin-top: -280px;
+    width: 257px;
+    margin-left: 165px;
+    gap: 34px;
+    opacity: 0px;
+}   
+.button a{
+    width: 300px;
+    gap: 0px;
+    opacity: 0px;
+    padding-top: 30px;
+    padding-right: 20px;
+    padding-left: 180px;
+    font-size: 28px;
+    font-weight: 900;
+    line-height: 48px;
+    background-image: url("/assets/img/Group.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    text-decoration: none;
+    text-decoration-skip-ink: none;
+    border-radius: 100px;
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    padding-bottom: 30px;
+}
